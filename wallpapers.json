@@ -10,21 +10,13 @@
 	{
 		"name": "ShotA",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/wallpaper_1.png",
+		"url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/wallpaper_2.png",
 		"collections": "featured,landscapes,people"
 	},
 	{
 		"name": "ShotB",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/wallpaper_2.png",
-		"collections": "featured,landscapes,people"
-	},
-	{
-		"name": "ShotC",
-		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/wallpaper_3.png",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": false
+		"collections": "featured,landscapes,people"
 	}
 ]
