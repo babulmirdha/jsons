@@ -9,7 +9,7 @@
     {
         "name": "City with buildings",
         "author": "Craftpix.net",
-        "url": "https://opengameart.org/content/city-parallax-background-with-buildings-pixel-art",
+        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/city_with_buildings.png",
         "dimensions": "3200x2800",
         "license": "OGA-BY 3.0",
         "downloadable": false
@@ -17,7 +17,7 @@
     {
         "name": "Moon and sea",
         "author": "Craftpix.net",
-        "url": "https://opengameart.org/content/moon-and-sea-pixel-art-background",
+        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/moon_and_sea.png",
         "dimensions": "3200x2800",
         "license": "OGA-BY 3.0",
         "downloadable": false
@@ -25,7 +25,7 @@
     {
         "name": "Natural landscape",
         "author": "Craftpix.net",
-        "url": "https://opengameart.org/content/simple-natural-landscape-pixel-art-background",
+        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/natural_landscape.png",
         "dimensions": "3200x2800",
         "license": "OGA-BY 3.0",
         "downloadable": false
@@ -33,7 +33,7 @@
     {
         "name": "Summer",
         "author": "Craftpix.net",
-        "url": "https://opengameart.org/content/summer-pixel-art-seamless-background",
+        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/summer.png",
         "dimensions": "3200x2800",
         "license": "OGA-BY 3.0",
         "downloadable": false
@@ -41,7 +41,7 @@
     {
         "name": "Sunset behind the clouds",
         "author": "Craftpix.net",
-        "url": "https://opengameart.org/content/pixelated-sunset-behind-the-clouds-game-background",
+        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/sunset_behind_the_clouds.png",
         "dimensions": "3200x2800",
         "license": "OGA-BY 3.0",
         "downloadable": false
@@ -49,7 +49,7 @@
     {
         "name": "Sunset",
         "author": "Craftpix.net",
-        "url": "https://opengameart.org/content/sunset-clouds-over-the-sea-pixel-background",
+        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/sunset.png",
         "dimensions": "3200x2800",
         "license": "OGA-BY 3.0",
         "downloadable": false
