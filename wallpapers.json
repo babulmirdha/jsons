@@ -1,58 +1,58 @@
 [
-    {
-        "name": "Moonlit clouds",
-        "author": "Rahul Parihar",
-        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/moonlit_clouds.png",
-        "dimensions": "3200x2800",
-        "license": "CC-BY 3.0",
-        "downloadable": false
-    },
-    {
-        "name": "City with buildings",
-        "author": "Craftpix.net",
-        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/city_with_buildings.png",
-        "dimensions": "3200x2800",
-        "license": "OGA-BY 3.0",
-        "downloadable": false
-    },
-    {
-        "name": "Moon and sea",
-        "author": "Craftpix.net",
-        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/moon_and_sea.png",
-        "dimensions": "3200x2800",
-        "license": "OGA-BY 3.0",
-        "downloadable": false
-    },
-    {
-        "name": "Natural landscape",
-        "author": "Craftpix.net",
-        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/natural_landscape.png",
-        "dimensions": "3200x2800",
-        "license": "OGA-BY 3.0",
-        "downloadable": false
-    },
-    {
-        "name": "Summer",
-        "author": "Craftpix.net",
-        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/summer.png",
-        "dimensions": "3200x2800",
-        "license": "OGA-BY 3.0",
-        "downloadable": false
-    },
-    {
-        "name": "Sunset behind the clouds",
-        "author": "Craftpix.net",
-        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/sunset_behind_the_clouds.png",
-        "dimensions": "3200x2800",
-        "license": "OGA-BY 3.0",
-        "downloadable": false
-    },
-    {
-        "name": "Sunset",
-        "author": "Craftpix.net",
-        "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/sunset.png",
-        "dimensions": "3200x2800",
-        "license": "OGA-BY 3.0",
-        "downloadable": false
-    }
+  {
+    "name": "City with buildings",
+    "author": "Craftpix.net",
+    "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/city_with_buildings.png",
+    "dimensions": "3200x2800",
+    "license": "OGA-BY 3.0",
+    "downloadable": false
+  },
+  {
+    "name": "Moonlit clouds",
+    "author": "Rahul Parihar",
+    "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/moonlit_clouds.png",
+    "dimensions": "3200x2800",
+    "license": "CC-BY 3.0",
+    "downloadable": true
+  },
+  {
+    "name": "Moon and sea",
+    "author": "Craftpix.net",
+    "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/moon_and_sea.png",
+    "dimensions": "3200x2800",
+    "license": "OGA-BY 3.0",
+    "downloadable": false
+  },
+  {
+    "name": "Natural landscape",
+    "author": "Craftpix.net",
+    "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/natural_landscape.png",
+    "dimensions": "3200x2800",
+    "license": "OGA-BY 3.0",
+    "downloadable": false
+  },
+  {
+    "name": "Summer",
+    "author": "Craftpix.net",
+    "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/summer.png",
+    "dimensions": "3200x2800",
+    "license": "OGA-BY 3.0",
+    "downloadable": false
+  },
+  {
+    "name": "Sunset",
+    "author": "Craftpix.net",
+    "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/sunset.png",
+    "dimensions": "3200x2800",
+    "license": "OGA-BY 3.0",
+    "downloadable": false
+  },
+  {
+    "name": "Sunset behind the clouds",
+    "author": "Craftpix.net",
+    "url": "https://raw.githubusercontent.com/babulmirdha/jsons/main/images/sunset_behind_the_clouds.png",
+    "dimensions": "3200x2800",
+    "license": "OGA-BY 3.0",
+    "downloadable": false
+  }
 ]
