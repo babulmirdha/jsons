@@ -7,7 +7,7 @@
     "email": "digitalcontact.gr@gmail.com",
     "county_of_residence": "Florina Prefecture",
     "city_address": "Kondylaki 8",
-    "medications": "nooooo",
+    "medications": "Paracetamol",
     "deadline": "2025-08-29",
     "submission_date": "2025-08-13"
   },
@@ -19,7 +19,7 @@
     "email": "digitalcontact.gr@gmail.com",
     "county_of_residence": "Imathia Prefecture",
     "city_address": "Kondylaki 8",
-    "medications": "test medicine",
+    "medications": "Amoxicillin",
     "deadline": "2025-08-31",
     "submission_date": "2025-08-13"
   },
@@ -31,7 +31,7 @@
     "email": "digitalcontact.gr@gmail.com",
     "county_of_residence": "Ioannina Prefecture",
     "city_address": "Kondylaki 8",
-    "medications": "digitalcontact",
+    "medications": "Atorvastatin",
     "deadline": "2025-09-01",
     "submission_date": "2025-08-13"
   },
@@ -43,7 +43,7 @@
     "email": "mairibeq@gmail.com",
     "county_of_residence": "Lasithi Prefecture",
     "city_address": "Lakes, Emara",
-    "medications": "pain relief",
+    "medications": "Ibuprofen",
     "deadline": "2025-08-28",
     "submission_date": "2025-08-13"
   },
@@ -55,7 +55,7 @@
     "email": "maria.papadopoulou@example.com",
     "county_of_residence": "Attica Prefecture",
     "city_address": "Athens, Kolonaki 12",
-    "medications": "insulin",
+    "medications": "Insulin",
     "deadline": "2025-08-25",
     "submission_date": "2025-08-12"
   },
@@ -67,7 +67,7 @@
     "email": "d.nikolaidis@example.com",
     "county_of_residence": "Thessaloniki Prefecture",
     "city_address": "Thessaloniki, Egnatia 45",
-    "medications": "antibiotics",
+    "medications": "Azithromycin",
     "deadline": "2025-08-26",
     "submission_date": "2025-08-12"
   },
@@ -79,7 +79,7 @@
     "email": "ioanna.k@example.com",
     "county_of_residence": "Chania Prefecture",
     "city_address": "Chania, Old Port 3",
-    "medications": "vitamin D",
+    "medications": "Vitamin D3",
     "deadline": "2025-08-30",
     "submission_date": "2025-08-12"
   },
@@ -91,7 +91,7 @@
     "email": "nikos.g@example.com",
     "county_of_residence": "Larissa Prefecture",
     "city_address": "Larissa, Farsalon 9",
-    "medications": "eye drops",
+    "medications": "Latanoprost (eye drops)",
     "deadline": "2025-09-02",
     "submission_date": "2025-08-13"
   },
@@ -103,7 +103,7 @@
     "email": "eleni.v@example.com",
     "county_of_residence": "Patras Prefecture",
     "city_address": "Patras, Agiou Nikolaou 14",
-    "medications": "blood pressure pills",
+    "medications": "Amlodipine",
     "deadline": "2025-08-27",
     "submission_date": "2025-08-12"
   },
@@ -115,7 +115,7 @@
     "email": "kostas.pg@example.com",
     "county_of_residence": "Kavala Prefecture",
     "city_address": "Kavala, Eleftherias 22",
-    "medications": "cholesterol tablets",
+    "medications": "Rosuvastatin",
     "deadline": "2025-08-29",
     "submission_date": "2025-08-12"
   },
@@ -127,7 +127,7 @@
     "email": "vasilis.ch@example.com",
     "county_of_residence": "Volos Prefecture",
     "city_address": "Volos, Anavros 17",
-    "medications": "thyroid medicine",
+    "medications": "Levothyroxine",
     "deadline": "2025-09-03",
     "submission_date": "2025-08-13"
   },
@@ -139,7 +139,7 @@
     "email": "sofia.m@example.com",
     "county_of_residence": "Rhodes Prefecture",
     "city_address": "Rhodes, Old Town 6",
-    "medications": "migraine tablets",
+    "medications": "Sumatriptan",
     "deadline": "2025-08-28",
     "submission_date": "2025-08-12"
   },
@@ -151,7 +151,7 @@
     "email": "petros.a@example.com",
     "county_of_residence": "Drama Prefecture",
     "city_address": "Drama, Ethnikis 8",
-    "medications": "heart medication",
+    "medications": "Metoprolol",
     "deadline": "2025-08-31",
     "submission_date": "2025-08-12"
   },
@@ -163,7 +163,7 @@
     "email": "katerina.i@example.com",
     "county_of_residence": "Corfu Prefecture",
     "city_address": "Corfu, Liston 4",
-    "medications": "allergy pills",
+    "medications": "Cetirizine",
     "deadline": "2025-09-01",
     "submission_date": "2025-08-13"
   },
@@ -175,7 +175,7 @@
     "email": "giorgos.s@example.com",
     "county_of_residence": "Serres Prefecture",
     "city_address": "Serres, Konstantinou 11",
-    "medications": "antidepressants",
+    "medications": "Sertraline",
     "deadline": "2025-08-27",
     "submission_date": "2025-08-12"
   },
@@ -187,7 +187,7 @@
     "email": "anna.k@example.com",
     "county_of_residence": "Heraklion Prefecture",
     "city_address": "Heraklion, Knossos 21",
-    "medications": "iron supplements",
+    "medications": "Ferrous Sulfate",
     "deadline": "2025-08-29",
     "submission_date": "2025-08-12"
   },
@@ -199,7 +199,7 @@
     "email": "panagiotis.t@example.com",
     "county_of_residence": "Kalamata Prefecture",
     "city_address": "Kalamata, Plateia 2",
-    "medications": "stomach pills",
+    "medications": "Omeprazole",
     "deadline": "2025-08-30",
     "submission_date": "2025-08-12"
   },
@@ -211,7 +211,7 @@
     "email": "maria.k@example.com",
     "county_of_residence": "Trikala Prefecture",
     "city_address": "Trikala, Asklipiou 18",
-    "medications": "diabetes medicine",
+    "medications": "Metformin",
     "deadline": "2025-09-02",
     "submission_date": "2025-08-13"
   },
@@ -223,7 +223,7 @@
     "email": "alex.p@example.com",
     "county_of_residence": "Kozani Prefecture",
     "city_address": "Kozani, Dimokratias 5",
-    "medications": "painkillers",
+    "medications": "Diclofenac",
     "deadline": "2025-08-28",
     "submission_date": "2025-08-12"
   }
